@@ -1,0 +1,12 @@
+{
+  "domain": "clearsky_solar",
+  "name": "Clearsky Solar",
+  "codeowners": ["@lymanepp"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/lymanepp/ha-clearsky-solar",
+  "iot_class": "calculated",
+  "issue_tracker": "https://github.com/lymanepp/ha-clearsky-solar/issues",
+  "requirements": ["pvlib==0.11.1"],
+  "version": "0.0.1"
+}
